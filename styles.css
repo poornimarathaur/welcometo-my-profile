@@ -10,6 +10,15 @@ color:grey;
 border-bottom: none;
 width:4%;
 }
+header {
+  height: 65px;
+  width: 100%;
+  position :fixed;
+  top: 0;
+  z-index: 10;
+  background-color: #07031a;
+  opacity: 0.8;
+}
 
 h1{
   margin: 0 auto 0 auto;
